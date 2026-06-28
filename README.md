@@ -10,7 +10,7 @@ Computer Science Engineer • AI Enthusiast • AWS Certified Cloud Practitioner
 
 ## About Me
 
-- Final Year B.Tech Computer Science student at **VIT Vellore**
+- B.Tech Computer Science Graduate from **VIT Vellore**
 - AWS Certified Cloud Practitioner with an interest in Cloud Computing and Serverless Architectures
 - Passionate about Artificial Intelligence, Machine Learning, Generative AI, and Retrieval-Augmented Generation (RAG)
 - Enjoy building scalable full-stack and AI-powered applications
