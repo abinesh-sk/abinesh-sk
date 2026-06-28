@@ -11,9 +11,8 @@ Computer Science Engineer • AI Enthusiast • AWS Certified Cloud Practitioner
 ## 🙋‍♂️ About Me
 
 - 🎓 Final Year B.Tech Computer Science student at **VIT Vellore**
-- ☁️ AWS Certified Cloud Practitioner passionate about Cloud Computing and Serverless Architectures
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, Generative AI and RAG Systems**
-- 🔍 Currently exploring **LLMs, AI Agents, Retrieval-Augmented Generation (RAG), LangChain and AWS Bedrock**
+- ☁️ Passionate about Cloud Computing and Serverless Architectures
+- 🤖 Interested in **Artificial Intelligence, Machine Learning, Generative AI and Retrieval-Augmented Generation (RAG)**
 - 💻 Love building scalable Full Stack and AI-powered applications
 - 🚀 Always learning new technologies and solving real-world problems through software
 
@@ -52,85 +51,15 @@ Computer Science Engineer • AI Enthusiast • AWS Certified Cloud Practitioner
 
 ---
 
-# 🚀 Featured Projects
+## 🏆 Achievements
 
-## ⚖️ Legal Compass
-
-> Serverless AI-powered Legal Assistant built on AWS
-
-- AWS Bedrock
-- Lambda
-- DynamoDB
-- API Gateway
-- Amazon Lex
-- Amazon Translate
-- RAG Pipeline
-
-✨ Features
-
-- 🌍 Supports 75+ Languages
-- 📄 Automated Legal Document Processing
-- 🤖 AI-powered Legal Assistance
-- ⚡ Serverless Architecture
+- 🥇 Top 5 Team — IEEE ComSoc Connectron 36-hour Hackathon
+- ☁️ AWS Certified Cloud Practitioner
+- 📚 The Complete Web Development Bootcamp 2024
 
 ---
 
-## 🎙️ Speech Based Fatigue & Early Burnout Prediction
-
-Deep Learning system that predicts fatigue from speech signals.
-
-- CRNN + BiGRU
-- Attention Mechanism
-- Emotion Recognition
-- Temporal Fatigue Prediction
-- PyTorch
-
-🏆 Achievements
-
-- 🎯 93% Emotion Classification Accuracy
-- 🎯 90.16% Fatigue Prediction Accuracy
-
----
-
-## 🍲 Donate Dish
-
-A Full Stack platform connecting food donors with NGOs and volunteers.
-
-Tech Stack
-
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
-
-Currently migrating to the **MERN Stack**.
-
----
-
-# 🏆 Achievements
-
-🥇 Top 5 Team — IEEE ComSoc Connectron 36-hour Hackathon
-
-☁️ AWS Certified Cloud Practitioner
-
-📚 Completed The Complete Web Development Bootcamp
-
----
-
-# 📚 Currently Learning
-
-- Agentic AI
-- LangGraph
-- LangChain
-- Advanced RAG
-- Multi-Agent Systems
-- AWS AI Services
-- System Design
-
----
-
-# 📫 Connect with Me
+## 📫 Connect with Me
 
 <p align="center">
 
